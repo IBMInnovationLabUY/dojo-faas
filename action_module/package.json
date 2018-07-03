@@ -1,0 +1,7 @@
+{
+    "name": "my-action",
+    "main": "index.js",
+    "dependencies": {
+        "split-string": "^5.0.4"
+    }
+}
